@@ -1,3 +1,5 @@
+<center><img src="https://github.com/volkanparlak/erenler-belediyesi-yerel-hizmetler-noktasi/blob/main/video.gif?raw=true" width="auto"></center>
+
 Erenler Belediyesi ve çevresindeki ilçelerde bulunan yerel hizmet noktalarını görselleştiren bir Coğrafi Bilgi Sistemi (CBS) tabanlı web uygulamasıdır.
 
 Kullanıcılar, belediyenin sunduğu çeşitli hizmet noktalarını interaktif bir harita üzerinde görüntüleyebilir, bu noktalara dair detaylı bilgi alabilir ve arama yaparak belirli hizmetleri kolayca bulabilirler.
