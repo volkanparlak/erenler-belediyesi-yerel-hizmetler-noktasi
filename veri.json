@@ -1,0 +1,1576 @@
+{
+    "type":"FeatureCollection",
+    "name":"CBS_BELEDIYE_YEREL_HIZMET_NOKTALARI_SHP",
+    "crs":{
+       "type":"name",
+       "properties":{
+          "name":"urn:ogc:def:crs:OGC:1.3:CRS84"
+       }
+    },
+    "features":[
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":0,
+             "aciklama":null,
+             "ad":"Halk Ekmek Büfesi",
+             "adres":"Arifbey, Şafak Sk., 54580 Arifiye\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ARİFİYE",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ARİFBEY",
+             "objectid":8
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.362567082839298,
+                40.714548209529902
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":1,
+             "aciklama":null,
+             "ad":"Adapazarı Samek",
+             "adres":"Hızırtepe, 54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"HIZIRTEPE",
+             "objectid":19
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.3933823004025,
+                40.750182298774902
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":2,
+             "aciklama":null,
+             "ad":"Sapanca Samek",
+             "adres":"Rüstempaşa, Atatürk Cd., 54600 Sapanca\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"SAPANCA",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"RÜSTEMPAŞA",
+             "objectid":20
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.263254800454501,
+                40.692909798718297
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":3,
+             "aciklama":null,
+             "ad":"Kocaali Samek",
+             "adres":"Merkez, 54800 Kocaali\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"KOCAALİ",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"AĞALAR",
+             "objectid":15
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.8534821997658,
+                41.0556839991483
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":4,
+             "aciklama":null,
+             "ad":"Karaman Samek",
+             "adres":"Karaman, 54290 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"KARAMAN",
+             "objectid":17
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.3400550002216,
+                40.852875998837497
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":5,
+             "aciklama":null,
+             "ad":"Halk Ekmek Büfesi",
+             "adres":"Tekeler, Kuzey Terminal, 54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"TEKELER",
+             "objectid":10
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.404760882961,
+                40.800117853389999
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":6,
+             "aciklama":null,
+             "ad":"Erenler Samek",
+             "adres":"Erenler, Dr. Sadık Ahmet Cad. No:2, 54200 Erenler\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ERENLER",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"DİLMEN",
+             "objectid":16
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.400515314038099,
+                40.763893058557301
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":7,
+             "aciklama":null,
+             "ad":"Halk Ekmek Büfesi",
+             "adres":"Maltepe, 54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"MALTEPE",
+             "objectid":12
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.379038786832002,
+                40.744717611949198
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":8,
+             "aciklama":null,
+             "ad":"Halk Ekmek Büfesi",
+             "adres":"Yenigün, Turan Cd., 54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"YENİGÜN",
+             "objectid":7
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.416937032551001,
+                40.768506843745499
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":9,
+             "aciklama":null,
+             "ad":"Halk Ekmek Fırını",
+             "adres":"Orhaniye, Değirmen Cd. No:77, 54700 Geyve\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"GEYVE",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"YÖRÜKLER",
+             "objectid":11
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.299985786619601,
+                40.504035276442004
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":10,
+             "aciklama":"Sakarya Büyükşehir Belediyesi Uçak Kafe",
+             "ad":"Uçak Kıraathanesi",
+             "adres":"Semerciler Mh. Parlak Sk. No:37 Kat:2 Adapazarı \/ Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"MİTHATPAŞA",
+             "objectid":387
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.389168377405198,
+                40.770173301491802
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":11,
+             "aciklama":"Sakarya Büyükşehir Belediyesi Vagon Kafe",
+             "ad":"Vagon Kafe",
+             "adres":"Şirinevler, 922. Sk No:15, 54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞİRİNEVLER",
+             "objectid":389
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.375259562782301,
+                40.755272174938803
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":12,
+             "aciklama":null,
+             "ad":null,
+             "adres":null,
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":null,
+             "ilce":null,
+             "kategori":null,
+             "mahalle":null,
+             "objectid":4392
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.5012000005174,
+                40.739400000332502
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":13,
+             "aciklama":null,
+             "ad":null,
+             "adres":null,
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":null,
+             "ilce":null,
+             "kategori":null,
+             "mahalle":null,
+             "objectid":4391
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.5012000005174,
+                40.739400000332502
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":14,
+             "aciklama":null,
+             "ad":"Belpaş Büfe",
+             "adres":"Şeker, Sakarya Millet Bahçesi ,54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞEKER",
+             "objectid":3593
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.3861965629217,
+                40.779123161630501
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":15,
+             "aciklama":"Millet Bahçesi içinde, 190 metrekare alan üzerine kurulu bu ev 2 katlı dizayn edilmiş olup,evin içerisinde terslik var diyebilirsiniz.Bu ev içerisinde aklınıza gelen bütün eşyalar ters haldedir.Bol bol hatıra fotoğrafı çekeceğinizden emi",
+             "ad":"Ters Ev",
+             "adres":"Şeker, Sakarya Millet Bahçesi ,54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞEKER",
+             "objectid":3592
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.387355277591599,
+                40.776448204484701
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":16,
+             "aciklama":"Hatıraların canlandığı mekan Çay Dünyası vatandaşlarımıza sıcak ve soğuk içecek imkanı sunuyor.",
+             "ad":"Çay Evi",
+             "adres":"Şirinevler Mah. Adnan Menderes Cad.No: 293-A Adapazarı \/ SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞİRİNEVLER",
+             "objectid":3591
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.385164871265101,
+                40.7553846010291
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":17,
+             "aciklama":null,
+             "ad":"Belpaş Yöresel Ürünler",
+             "adres":"Şeker, Sakarya Millet Bahçesi ,54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞEKER",
+             "objectid":3191
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.386630862777199,
+                40.776182695840198
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":18,
+             "aciklama":"Fidan A.Ş. 02 Ekim 2019 tarihinde kurulmuştur.Kuruluşumuzun amacı,Sakarya ilinde süs bitkisi üreticilerini destekleyerek,ilimizdeki güçlü üretim potansiyelini ön plana çıkmasını sağlamak ve yeşil alanlar oluşturmak için projeler üretm",
+             "ad":"Fidan A.Ş",
+             "adres":"Şeker, Sakarya Millet Bahçesi ,54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞEKER",
+             "objectid":2798
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.386693225089999,
+                40.776185742180402
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":19,
+             "aciklama":"Hatıraların canlandığı mekan Çay Dünyası vatandaşlarımıza sıcak ve soğuk içecek imkanı sunuyor.",
+             "ad":"Çay Evi",
+             "adres":"Şeker, Sakarya Millet Bahçesi ,54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞEKER",
+             "objectid":2797
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.386577219309299,
+                40.776183204232197
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":20,
+             "aciklama":null,
+             "ad":"Belpaş Büfe",
+             "adres":"Şeker, Sakarya Millet Bahçesi ,54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞEKER",
+             "objectid":2796
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.386510834008099,
+                40.776186250549401
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":21,
+             "aciklama":"Süt54, tamamen hijyenik ortamlarda yüzde yüz ve katıksız arı çiftliklerinden gelen, vücudunuz için sağlıklı gıdalar olan sütlerimiz, Belpaş güvencesiyle hizmetinize sunulmaktadır.",
+             "ad":"Süt Evi - Yöresel Ürünler Satış Merkezi",
+             "adres":"Cumhuriyet  Mahallesi Ada Caddesi Cevat Ayhan Cami Bahçesi  Akyazi\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"AKYAZI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"CUMHURİYET",
+             "objectid":2795
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.6254621300046,
+                40.686661986356398
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":22,
+             "aciklama":null,
+             "ad":"Sakarya Millet Kıraathanesi",
+             "adres":"Şeker, Çark Cd. Sakarya Millet Bahçesi ,54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞEKER",
+             "objectid":2794
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.385376048602101,
+                40.775700556979302
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":23,
+             "aciklama":null,
+             "ad":"Gabak Evi",
+             "adres":"Şeker, Sakarya Millet Bahçesi ,54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞEKER",
+             "objectid":2793
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.386395287213102,
+                40.776551608342899
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":24,
+             "aciklama":"Süt54, tamamen hijyenik ortamlarda yüzde yüz ve katıksız arı çiftliklerinden gelen, vücudunuz için sağlıklı gıdalar olan sütlerimiz, Belpaş güvencesiyle hizmetinize sunulmaktadır.",
+             "ad":"Süt 54",
+             "adres":"Cumhuriyet Mah. Atatürk Bul.  Adapazarı Kültür Merkezi Önü Adapazarı \/ SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"CUMHURİYET",
+             "objectid":2391
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.401627629807098,
+                40.777033505115703
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":25,
+             "aciklama":null,
+             "ad":"Halk Ekmek",
+             "adres":"Otuziki Evler, Beşköprü Cd., 54050 Serdivan\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"SERDİVAN",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"OTUZİKİ EVLER",
+             "objectid":1991
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.374106757708901,
+                40.749865595128298
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":26,
+             "aciklama":null,
+             "ad":"Sakarya Büyükşehir Belediyesi Belpaş Yöresel",
+             "adres":"Hanlıköy, Arifiye Caddesi ,54580 Arifiye\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ARİFİYE",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"HANLIKÖY",
+             "objectid":1592
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.379648538880101,
+                40.7298754677132
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":27,
+             "aciklama":null,
+             "ad":null,
+             "adres":null,
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":null,
+             "ilce":null,
+             "kategori":null,
+             "mahalle":null,
+             "objectid":1591
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.2865372658813,
+                40.884635383722603
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":28,
+             "aciklama":null,
+             "ad":"Bal 54",
+             "adres":"Semerciler Mh. Parlak Sk. No:37 Kat:2 Adapazarı \/ Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"SEMERCİLER",
+             "objectid":1193
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.400885358284501,
+                40.775069113296098
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":29,
+             "aciklama":null,
+             "ad":"Halk Ekmek",
+             "adres":"Arabacıalanı, Çark Cd. , 54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"SERDİVAN",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ARABACIALANI",
+             "objectid":1192
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.362770004791699,
+                40.7718065080008
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":30,
+             "aciklama":null,
+             "ad":"Sakarya Büyükşehir Belediyesi Belpaş Yöresel",
+             "adres":"Yeni Mah. Sakarya Cad. 1179. Sokak",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ERENLER",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ERENLER",
+             "objectid":1191
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.413378174162801,
+                40.746791450054303
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":31,
+             "aciklama":null,
+             "ad":"KENTPARK",
+             "adres":"Mithatpaşa Mah. A.Nejdet Güven Cad. No: 45-9 Adapazarı \/ SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"MİTHATPAŞA",
+             "objectid":791
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.3886018402441,
+                40.772751310758203
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":32,
+             "aciklama":null,
+             "ad":"Ormanpark Büfe",
+             "adres":"Şirinevler Mah. Adnan Menderes Cad.No: 293-A Adapazarı \/ SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞİRİNEVLER",
+             "objectid":390
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.3860129427513,
+                40.756175980569203
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":33,
+             "aciklama":null,
+             "ad":"Aş Evi",
+             "adres":null,
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ERENLER",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"DİLMEN",
+             "objectid":388
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.400529727368099,
+                40.758393097226602
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":34,
+             "aciklama":null,
+             "ad":"Karaman Park",
+             "adres":"Karaman 8. Cd. 54290 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"KARAMAN",
+             "objectid":386
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.340448498358199,
+                40.8509259971161
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":35,
+             "aciklama":"20 bin metrekarelik alanda, yürüyüş alanları, yüzme havuzu, çocuk oyun alanları bulunan tesislerimiz, özveriyle çalışan ekibiyle konuklarımıza hak ettiği hizmeti layığıyla sunmayı amaçlamaktadır.",
+             "ad":"Kocaali Sahili Sosyal Tesisleri",
+             "adres":"Caferiye Mah. Tatlıcak Sok. No.201\/1 Kocaali \/ SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"KOCAALİ",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"CAFERİYE",
+             "objectid":385
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.9311136074671,
+                41.071779206160599
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":36,
+             "aciklama":"300 araç kapasiteli otopark, akıllı yönlendirme sistemleri ve asansör ile kolay ulaşılabilir bir yapıya sahiptir. Engelli erişimine uygun dizaynı, engelleri ortadan kaldırarak vatandaşlarımızın hizmetine sunulmaktadır.",
+             "ad":"Katlı Otopark",
+             "adres":"Yenidoğan Mah.Yan Sokak No:7 Adapazarı\/SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"YENİDOĞAN",
+             "objectid":384
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.396519657658502,
+                40.773325183398299
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":37,
+             "aciklama":"Ayçiçek Vadisi ve Bisiklet Adası’nın bir arada bulunduğu, yeni yaşam alanı doğallığı ve güzelliği ile şehrin karmaşasından ve gürültüsünden kaçmak için, hem dinlenebileceğiniz hem de eğlenceli dakikalar geçireceğiniz kafemiz h",
+             "ad":"Ayçiçek Vadisi Kafe",
+             "adres":"Camili,54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"15 TEMMUZ CAMİLİ",
+             "objectid":383
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.3127175845718,
+                40.8580877013855
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":38,
+             "aciklama":"Hatıraların canlandığı mekan Çay Dünyası vatandaşlarımıza sıcak ve soğuk içecek imkanı sunuyor.",
+             "ad":"Şemsiyeli Park Çay Dünyası",
+             "adres":"Cumhuriyet Mah. Atatürk Bul. No: 3 Şemsiyelipark içi Adapazarı \/ SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"CUMHURİYET",
+             "objectid":382
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.401642935339201,
+                40.777982229733901
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":39,
+             "aciklama":null,
+             "ad":"Esentepe Park",
+             "adres":"Cihadiye, 54900 Pamukova\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"PAMUKOVA",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"CİHADİYE",
+             "objectid":381
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.175329133939002,
+                40.518571500013401
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":40,
+             "aciklama":"38 dönüm arazi üzerine inşa edilen Maltepe Park içerisinde çocuk oyun grupları, yürüyüş alanları, kafeteryalar, yeşil alanlar, oturma grupları, SAMEK ve 37 yıllık su deposunun restorasyon ile geri kazandırılarak seyir terasına dönüş",
+             "ad":"Maltepepark Adakule Sosyal Tesisleri",
+             "adres":"Maltepe Mah. Maltepe Cad. 560. Sok. Adapazarı \/ SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"MALTEPE",
+             "objectid":380
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.381711734704801,
+                40.750389164994999
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":41,
+             "aciklama":"Konuklarına doğanın içerisinde dinlenebileceğiniz,sevdiklerinizle hafta sonu planlarınız içerisinde olacak Korucuk Park’ta; yürüyüş, fitness ve ailenizle piknik yapabileceğiniz alanlar sunmaktadır.Kafeteryamız da kaliteli hizmet anlayı",
+             "ad":"Korucuk Park",
+             "adres":"Korucuk Mah. Cevat Uncuoğlu Cad. No: 28 Adapazarı \/ SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"KORUCUK",
+             "objectid":379
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.288934048662998,
+                40.863047131337602
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":42,
+             "aciklama":"İşetmemizde,yemek organizasyonları, iş ve toplantı yemekleri, doğum günü ve bayanlar için gün organizasyonları gibi hizmetler sunulmaktadır.İçerisinde basketbol ve voleybol sahaları,yürüyüş yolu,fitness aletleri ve piknik masaları bul",
+             "ad":"Yenikent Park Kafeterya",
+             "adres":"Camili Mah. Beyazıt Cad. No: 12 Adapazarı \/ SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"15 TEMMUZ CAMİLİ",
+             "objectid":378
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.3179877977947,
+                40.857397787693401
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":43,
+             "aciklama":"Belpaş Akaryakıt İstasyonumuz, yeni yerleşim bölgesi (Yenikent) yolunda 2500 m2'ye kurulu alan üzerinde akaryakıt, LPG, madeni yağ satışı ve marketindeki geniş ürün yelpazesiyle Sakarya halkına hizmet vermeye devam etmektedir.",
+             "ad":"Belpaş Petrol Ofisi Akaryakıt İstasyonu",
+             "adres":"Karaman Yolu Üzeri.Sebahattin Zaim Bulvarı 5. Km Shell Akaryakıt İstasyonu54100",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"KARAMAN",
+             "objectid":377
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.353327896608601,
+                40.823922500109802
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":44,
+             "aciklama":"Süt54, tamamen hijyenik ortamlarda yüzde yüz ve katıksız arı çiftliklerinden gelen, vücudunuz için sağlıklı gıdalar olan sütlerimiz, Belpaş güvencesiyle hizmetinize sunulmaktadır.",
+             "ad":"Süt 54",
+             "adres":"Sakarya \/Adapazarı Karaman mahallesi 17 Ağustos Camii yanı Mavi İş Merkezi Karaman mahallesi Sakarya TR  54100",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"KARAMAN",
+             "objectid":376
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.338837348815101,
+                40.853460612153697
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":45,
+             "aciklama":"Süt54, tamamen hijyenik ortamlarda yüzde yüz ve katıksız arı çiftliklerinden gelen, vücudunuz için sağlıklı gıdalar olan sütlerimiz, Belpaş güvencesiyle hizmetinize sunulmaktadır.",
+             "ad":"Süt 54",
+             "adres":null,
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ERENLER",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"MERKEZ",
+             "objectid":374
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.411652754329399,
+                40.766914451065198
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":46,
+             "aciklama":"Süt54, tamamen hijyenik ortamlarda yüzde yüz ve katıksız arı çiftliklerinden gelen, vücudunuz için sağlıklı gıdalar olan sütlerimiz, Belpaş güvencesiyle hizmetinize sunulmaktadır.",
+             "ad":"Süt 54",
+             "adres":"Arabacıalanı, Çark Cd. , 54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"SERDİVAN",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ARABACIALANI",
+             "objectid":373
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.362850415122701,
+                40.771820306552897
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":47,
+             "aciklama":null,
+             "ad":"Sakarya Millet Bahçesi",
+             "adres":"Şeker, 54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞEKER",
+             "objectid":372
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.386745932907498,
+                40.777326664438597
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":48,
+             "aciklama":"18 dönümlük arazi içerisinde 3250 m² kullanım alanı olan ve tamamen doğal bir mekandır. Sulak arazide yetişen Dişbudak ağaçlarının bulunduğu bu doğal mekan; Türkiye'de ilk defa uygulanan yerden yükseltmeli ahşap üzerine kurulu bir te",
+             "ad":"ORMANPARK",
+             "adres":"Şirinevler Mah. Adnan Menderes Cad.No: 293-A Adapazarı \/ SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞİRİNEVLER",
+             "objectid":371
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.386205833162599,
+                40.755918110497802
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":49,
+             "aciklama":null,
+             "ad":"Fidan A.Ş Ormanpark Satış Ofisi",
+             "adres":"Şirinevler Mah. Adnan Menderes Cad.No: 293-A Adapazarı \/ SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"ŞİRİNEVLER",
+             "objectid":370
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.385781079621498,
+                40.755962058025901
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":50,
+             "aciklama":"Süt54, tamamen hijyenik ortamlarda yüzde yüz ve katıksız arı çiftliklerinden gelen, vücudunuz için sağlıklı gıdalar olan sütlerimiz, Belpaş güvencesiyle hizmetinize sunulmaktadır.",
+             "ad":"Süt 54",
+             "adres":"İstiklal, Bahar Sk., 54050 Serdivan\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"SERDİVAN",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"İSTİKLAL",
+             "objectid":369
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.364377108298999,
+                40.770639166592801
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":51,
+             "aciklama":"El emeği ürünlerin üretimi, imalatı ve satışıyla ilgili çalışmalar kapsamında hayata geçirilen Hanımeli Pazarın da,dokunan halılar, aksesuarlar, kenevirden elde edilen ürünlerin satışı sağlanmaktadır.",
+             "ad":"Hanımeli Pazarı",
+             "adres":"Semerciler, Kudüs Cd. No:2, 54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"SEMERCİLER",
+             "objectid":368
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.4010218526759,
+                40.776473223706702
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":52,
+             "aciklama":"BELPAŞ bünyesinde hizmet veren ÇAYKUR Çay Evi Kaliteli hizmet anlayışı, güler yüzlü çalışanları ile hizmete başlayan BELPAŞ Çay Evi vatandaşların yoğun ilgisi ile karşılaşırken, farklı çeşitler ve tatlarda ürünler yer almakta",
+             "ad":"Çaykur Çay Evi",
+             "adres":"Semerciler, Kudüs Cd. No:2, 54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"SEMERCİLER",
+             "objectid":367
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.400986806560599,
+                40.776398437785303
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":53,
+             "aciklama":null,
+             "ad":"Çikolataevi",
+             "adres":"Semerciler Mahallesi Dr. Nuri Bayar Caddesi 15 Temmuz şehitleri Demokrasi Meydanı",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"SEMERCİLER",
+             "objectid":366
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.3999951303303,
+                40.7759299837481
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":54,
+             "aciklama":null,
+             "ad":"Şifaevi",
+             "adres":"Semerciler Mahallesi Dr. Nuri Bayar Caddesi 15 Temmuz şehitleri Demokrasi Meydanı",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"SEMERCİLER",
+             "objectid":364
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.400044635453199,
+                40.775867209704401
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":55,
+             "aciklama":null,
+             "ad":"Bebek Bakım Ve Sağlık Evi",
+             "adres":"Semerciler Mahallesi Dr. Nuri Bayar Caddesi 15 Temmuz şehitleri Demokrasi Meydanı",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"SEMERCİLER",
+             "objectid":363
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.4000725542457,
+                40.775825151632901
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":56,
+             "aciklama":"Süt54, tamamen hijyenik ortamlarda yüzde yüz ve katıksız arı çiftliklerinden gelen, vücudunuz için sağlıklı gıdalar olan sütlerimiz, Belpaş güvencesiyle hizmetinize sunulmaktadır.",
+             "ad":"Süt 54",
+             "adres":"Semerciler Mahallesi Dr. Nuri Bayar Caddesi 15 Temmuz şehitleri Demokrasi Meydanı",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"SEMERCİLER",
+             "objectid":362
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.400099034306098,
+                40.775773705474599
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":57,
+             "aciklama":null,
+             "ad":"Havasak",
+             "adres":"Semerciler, 15 Temmuz Demokrasi Meydanı 54100 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"SEMERCİLER",
+             "objectid":361
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.400172578173699,
+                40.775658163642198
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":58,
+             "aciklama":null,
+             "ad":"Halk Ekmek Büfesi",
+             "adres":"Yenigün Mahallesi 15 Temmuz Bulvarı Yeni Cami Önü",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"YENİGÜN",
+             "objectid":360
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.4044699477158,
+                40.772856826842101
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":59,
+             "aciklama":"Süt54, tamamen hijyenik ortamlarda yüzde yüz ve katıksız arı çiftliklerinden gelen, vücudunuz için sağlıklı gıdalar olan sütlerimiz, Belpaş güvencesiyle hizmetinize sunulmaktadır.",
+             "ad":"Süt 54",
+             "adres":"Cumhuriyet Mah. Atatürk Bul. No: 3 Şemsiyelipark içi Adapazarı \/ SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"CUMHURİYET",
+             "objectid":359
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.401006639835199,
+                40.778080584835003
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":60,
+             "aciklama":null,
+             "ad":"Halk Ekmek Büfesi",
+             "adres":"Semerciler Mahallesi, Dr. Nuri Bayar Caddesi 15 Temmuz şehitleri Demokrasi Meydanı",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"SEMERCİLER",
+             "objectid":358
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.3998482291126,
+                40.776243984996299
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":61,
+             "aciklama":null,
+             "ad":"Karasu Samek",
+             "adres":"Kabakoz, Kuzuluk Mahallesi No:, Mevlana Cd. No:27, 54500 Karasu\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"KARASU",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"KABAKOZ",
+             "objectid":18
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.689766150262098,
+                41.093990520663198
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":62,
+             "aciklama":null,
+             "ad":"Bal 54",
+             "adres":"Cumhuriyet Mah. Atatürk Bul. No: 3 Şemsiyelipark içi Adapazarı \/ SAKARYA",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"CUMHURİYET",
+             "objectid":13
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.401407501427499,
+                40.778058061050501
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":63,
+             "aciklama":null,
+             "ad":"Halk Ekmek Büfesi",
+             "adres":"Korucuk, 54290 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"KORUCUK",
+             "objectid":9
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.271814070284702,
+                40.846743771211798
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":64,
+             "aciklama":null,
+             "ad":"Havasak",
+             "adres":"Sakarya Şehirlerarası Otobüs Terminalı No:2 Kat:2, 54580 Arifiye\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ARİFİYE",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"HANLIKÖY",
+             "objectid":4
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.379656299489898,
+                40.730034798783301
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":65,
+             "aciklama":null,
+             "ad":"Gabak Evi",
+             "adres":"Semerciler Mh. Parlak Sk. No:37 Kat:2 Adapazarı \/ Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"SEMERCİLER",
+             "objectid":3
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.4014741169849,
+                40.775192921594197
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":66,
+             "aciklama":"Süt54, tamamen hijyenik ortamlarda yüzde yüz ve katıksız arı çiftliklerinden gelen, vücudunuz için sağlıklı gıdalar olan sütlerimiz, Belpaş güvencesiyle hizmetinize sunulmaktadır.",
+             "ad":"Süt54 Satış Noktası",
+             "adres":"Camili, Unnamed Road, 54290 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"15 TEMMUZ CAMİLİ",
+             "objectid":2
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.3147295004756,
+                40.852877099374602
+             ]
+          }
+       },
+       {
+          "type":"Feature",
+          "properties":{
+             "FID":67,
+             "aciklama":null,
+             "ad":"Sütevi - Yöresel Ürünler",
+             "adres":"Korucuk, Korucuk Cd., 54290 Adapazarı\/Sakarya",
+             "aktaran":"Coğrafi Bilgi Sistemleri Şube Müdürlüğü",
+             "aktarimtar":"19.09.2023",
+             "il":"SAKARYA",
+             "ilce":"ADAPAZARI",
+             "kategori":"Belediye Yerel Hizmet Noktaları",
+             "mahalle":"KORUCUK",
+             "objectid":1
+          },
+          "geometry":{
+             "type":"Point",
+             "coordinates":[
+                30.2900851803305,
+                40.858602107480401
+             ]
+          }
+       }
+    ]
+ }
